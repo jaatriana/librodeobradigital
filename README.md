@@ -1,4 +1,4 @@
-# librodeobrasdigital
+# librodeobradigital
 
 # El Libro de Obra
 Documento oficial del Contrato, que debe administrar la ITO, en el cual se registraran los sucesos relevantes del proceso constructivo, además de instrucciones y aclaraciones de los proyectistas. A su vez, por su intermedio el Contratista podrá formular consultas, las que deberán ser respondidas, por el mismo medio, por quien proceda. También se anotarán las observaciones de la ITO respecto de la forma en que se desarrollan las obras, los materiales empleados y las etapas de recepción y control especificadas en las Bases. 
